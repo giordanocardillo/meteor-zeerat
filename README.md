@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/giordanocardillo/meteor-zeerat.svg?branch=master)](https://travis-ci.org/giordanocardillo/meteor-zeerat)
+
 # giordanocardillo:zeerat
 
 This package adds the Zeerat monitoring code to your Meteor application.
