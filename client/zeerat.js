@@ -1,3 +1,5 @@
+import { Meteor } from 'meteor/meteor';
+
 if (!Meteor.settings.public.zeerat) {
   console.warn(`Missing zeerat settings`);
 } else if (!Meteor.settings.public.zeerat.disable) {
