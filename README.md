@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/giordanocardillo/meteor-zeerat.svg?branch=master)](https://travis-ci.org/giordanocardillo/meteor-zeerat) 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c8014e353e14572b832db6c4afb81dd)](https://www.codacy.com/app/giordanocardillo/meteor-zeerat?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giordanocardillo/meteor-zeerat&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c8014e353e14572b832db6c4afb81dd)](https://www.codacy.com/app/giordanocardillo/meteor-zeerat?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giordanocardillo/meteor-zeerat&amp;utm_campaign=Badge_Grade) 
+[![Code Climate](https://codeclimate.com/github/giordanocardillo/meteor-zeerat/badges/gpa.svg)](https://codeclimate.com/github/giordanocardillo/meteor-zeerat) 
+[![Issue Count](https://codeclimate.com/github/giordanocardillo/meteor-zeerat/badges/issue_count.svg)](https://codeclimate.com/github/giordanocardillo/meteor-zeerat)
 
 # giordanocardillo:zeerat
 
