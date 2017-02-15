@@ -1,6 +1,6 @@
 Package.describe({
   name: 'giordanocardillo:zeerat',
-  version: '1.0.5',
+  version: '1.0.6',
   // Brief, one-line summary of the package.
   summary: 'Meteor Zeerat monitoring package',
   // URL to the Git repository containing the source code for this package.
