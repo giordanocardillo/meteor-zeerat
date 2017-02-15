@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/giordanocardillo/meteor-zeerat.svg?branch=master)](https://travis-ci.org/giordanocardillo/meteor-zeerat)
-
+[![Build Status](https://travis-ci.org/giordanocardillo/meteor-zeerat.svg?branch=master)](https://travis-ci.org/giordanocardillo/meteor-zeerat) 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c8014e353e14572b832db6c4afb81dd)](https://www.codacy.com/app/giordanocardillo/meteor-zeerat?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giordanocardillo/meteor-zeerat&amp;utm_campaign=Badge_Grade)
 
 # giordanocardillo:zeerat
