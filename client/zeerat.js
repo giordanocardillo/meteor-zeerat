@@ -2,6 +2,7 @@ import { Meteor } from 'meteor/meteor';
 
 if (!Meteor.settings.public.zeerat) {
   console.warn(`Missing zeerat settings`);
+  
 } else if (!Meteor.settings.public.zeerat.disable) {
   if(!Meteor.settings.public.zeerat.id){
     console.warn(`Meteor.settings.public.zeerat.id is required.\nYou may disable Zeerat using Meteor.settings.public.zeerat.disable: [true/false]`);
